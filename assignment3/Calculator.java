@@ -27,7 +27,7 @@ import javax.swing.text.DefaultHighlighter;
  * BEGIN ASSIGNMENT CODE
  * 
  * @author Martin P. Robillard 26 February 2015
- *
+ * Hello
  */
 @SuppressWarnings("serial")
 public class Calculator extends JFrame implements ActionListener
